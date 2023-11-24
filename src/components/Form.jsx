@@ -23,14 +23,11 @@ function Form() {
   const { createCity } = useCities();
   const [lat, lng] = useUrlPosition();
   const [cityName, setCityName] = useState("");
-  // eslint-disable-next-line no-unused-vars
   const [country, setCountry] = useState("");
   const [date, setDate] = useState(new Date());
   const [notes, setNotes] = useState("");
-  // eslint-disable-next-line no-unused-vars
   const [isLoadingGeocoding, setIsLoadingGeocoding] = useState(false);
   const [emoji, setEmoji] = useState("");
-  // eslint-disable-next-line no-unused-vars
   const [geocodingError, setGeocodingError] = useState("");
   useEffect(() => {
     if (!lat && !lng) return;
