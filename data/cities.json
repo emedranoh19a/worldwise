@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-11-22T08:29:14.078Z",
+      "notes": "",
+      "position": {
+        "lat": "35.713067954913896",
+        "lng": "139.78454589843753"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Funabashi",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-11-22T08:29:23.858Z",
+      "notes": "",
+      "position": {
+        "lat": "35.69968630125204",
+        "lng": "139.9802398681641"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Mexico City",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2023-11-22T08:37:58.470Z",
+      "notes": "Mi casita",
+      "position": {
+        "lat": "19.30958406747225",
+        "lng": "-99.17464613914491"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Santa Fe",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2023-11-22T08:38:29.484Z",
+      "notes": "Mi escuelita",
+      "position": {
+        "lat": "19.30869303931502",
+        "lng": "-99.21205759048463"
+      },
+      "id": 9
+    }
+  ]
+}
